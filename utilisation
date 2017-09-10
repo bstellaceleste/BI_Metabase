@@ -5,3 +5,5 @@ puis "npm start"
 ouvrir ensuite le navigateur en localhost sur le port 3000
 créer un compte utilisateur et entrer les informations de connexion à votre bd pour y avoir accès depuis metabase
 pour que les requête préécrites affichent les résultats il faut se connecter à la bd d'odoo, donc il faut au préalable avoir installé odoo en local également
+
+le fichier "metabase.db.mv.db" garde toutes les informations (comptes, connexions, reqêtes, etc.) et modifications c'est le fichier à déplacer en cas de migration
